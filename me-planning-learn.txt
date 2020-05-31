@@ -10,5 +10,6 @@ Planning Learn Me
 - Javascript
   *any framework
    ^vue
+   ^react
 - R
 - Web Designer
