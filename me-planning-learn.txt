@@ -1,6 +1,10 @@
 Planning Learn Me
 
 - Phyton
+  *Data Science
+  *Program
 - Php
+  *Laravel
 - Javascript
+  *any framework
 - R
