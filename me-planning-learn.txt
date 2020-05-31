@@ -6,6 +6,9 @@ Planning Learn Me
   *Program
 - Php
   *Laravel
+  ^CodeIgniter
 - Javascript
   *any framework
+   ^vue
 - R
+- Web Designer
