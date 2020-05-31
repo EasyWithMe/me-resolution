@@ -1,11 +1,13 @@
 Planning Learn Me
 
-- Data Structure 
 - Phyton
   *Data Science
   *Program
 - Php
   *Laravel
+  *CodeIgniter
 - Javascript
   *any framework
-- R
+  ^Angular
+  ^React
+  - R
