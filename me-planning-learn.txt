@@ -5,9 +5,10 @@ Planning Learn Me
   *Program
 - Php
   *Laravel
-  *CodeIgniter
+  ^CodeIgniter
 - Javascript
   *any framework
-  ^Angular
-  ^React
-  - R
+   ^vue
+   ^react
+- R
+- Web Designer
